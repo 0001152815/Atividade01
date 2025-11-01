@@ -10,7 +10,7 @@ public class Atv_MaiorNumero {
         int[] numeros = new int[3];
 
         // Obtendo valores
-        System.out.println("Digite 3 valores inteiros e vou dizer qual deles é o maior: ");
+        System.out.println("Digite 3 valores inteiros e vou dizer qual deles é o maior! ");
 
         // Criando loop para verificar valores
         for (int i = 0; i < 3; i++) {
